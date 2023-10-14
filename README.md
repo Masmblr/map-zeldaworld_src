@@ -43,7 +43,7 @@ Map Description:
 | ------- | ------------- | ------: | -----------------: |  
 | 0.1     | 11/01/2013    | alpha   | :x:                |  
 | 1.0     | 11/02/2018    | beta    | :x:                |  
-| 1.1     | 28/08/2023  | final | [💾](https://github.com/Masmblr/map-Zelda-World_src/releases/tag/v1.1) |
+| 1.1     | 28/08/2023  | final | [💾](https://github.com/Masmblr/map-Zelda_World_src/releases/) |
 
 ## How-To
 **Binary**:
