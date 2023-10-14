@@ -52,7 +52,7 @@ Map Description:
 3. Start the Tremulous game and select "Create Server" with the desired map.
 
 **Source**:
-1. Download the [source release](https://github.com/Masmblr/map-Zelda_World_src/releases/tag/v1.1) and the [tremulous-common-files](https://github.com/Masmblr/tremulous-map-common/releases/tag/v1.0).
+1. Download the [source release](https://github.com/Masmblr/map-Zelda_World_src/releases/) and the [tremulous-common-files](https://github.com/Masmblr/tremulous-map-common/releases/tag/v1.0).
 2. Extract the files to the default installation directory. It should look like this:
 
 ```
@@ -163,7 +163,7 @@ License: Attribution License
 For all other content, their respective licensing rules and other legal provisions apply.
 
 ## Special Thanks:
-* id Software for Quake3
+* id Software fo
+r Quake3
 * Dark Legion Development for Tremulous
-* Team Xonotic for NetRadiant 
-* Edge Community Idea Contributors
+* Team Xonotic for Netributors
