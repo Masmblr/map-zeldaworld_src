@@ -1,0 +1,53 @@
+zelda_world/vulcan_smoke
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/zelda_world/sfx_smoke_shader
+			displacement 0 5 400 ~180
+			velocityType	static
+			velocityDir	linear
+			velocityMagnitude	100
+			velocity	0 0 6 ~0.4
+			accelerationType	static
+			accelerationDir	linear
+			acceleration	-0.1 0 0.3 ~5.0
+			accelerationMagnitude	100
+			radius	0 900 0
+			alpha	0 1 0
+			rotation	~360 ~360 ~360
+			bounce	0.0
+			overdrawProtection 
+			lifeTime 18000
+		}
+		delay 0
+		count infinite
+		period 4500 150 ~40%
+	}
+	ejector
+	{
+		particle
+		{
+			shader sync textures/zelda_world/sfx_smoke_small_shader
+			displacement 10 100 40 ~180
+			velocityType	static
+			velocityDir	linear
+			velocityMagnitude	100
+			velocity	0 0 6 ~0.4
+			accelerationType	static
+			accelerationDir	linear
+			acceleration	-0.1 0 0.3 ~5.0
+			accelerationMagnitude	100
+			rotation 0 0 360
+			radius	0 700 0
+			alpha 0 1 0
+			overdrawProtection
+			lifeTime 20000
+		}
+		delay 0
+		count infinite
+		period 2500 50 ~60%
+	}
+}
+
