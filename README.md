@@ -157,7 +157,7 @@ License: [MIT License](https://opensource.org/license/mit/).
 
 ### Credit-2
 Todd Gantzler \
-Multiplant \
+Content: Multiplant \
 License: Attribution License
 
 For all other content, their respective licensing rules and other legal provisions apply.
