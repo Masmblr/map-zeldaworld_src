@@ -163,7 +163,7 @@ License: Attribution License
 For all other content, their respective licensing rules and other legal provisions apply.
 
 ## Special Thanks:
-* id Software fo
-r Quake3
+* id Software for Quake3
 * Dark Legion Development for Tremulous
 * Team Xonotic for Netributors
+* Edge Community Idea Contributors
