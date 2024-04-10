@@ -39,11 +39,11 @@ Map Description:
 [<img src="meta/preview_levelshots/23.jpg" width="250"/>](meta/preview_levelshots/23.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |  
-| 0.1     | 11/01/2013    | alpha   | :x:                |  
-| 1.0     | 11/02/2018    | beta    | :x:                |  
-| 1.1     | 28/08/2023  | final | [💾](https://github.com/Masmblr/map-Zelda_World_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 0.1     | 11/01/2013    | alpha   |
+| 1.0     | 11/02/2018    | beta    |
+| 1.1     | 28/08/2023  | final |
 
 ## How-To
 **Binary**:
